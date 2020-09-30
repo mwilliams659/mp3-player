@@ -58,7 +58,7 @@ h3 {
   margin: 5px 0 0;
 }
 
-/* Progress */
+/* Progress Bar */
 .progress-container {
   background: #fff;
   border-radius: 5px;
@@ -83,7 +83,7 @@ h3 {
   justify-content: space-between;
 }
 
-/* Controls */
+/* Player Controls */
 .player-controls {
   position: relative;
   top: -15px;

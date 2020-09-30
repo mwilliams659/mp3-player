@@ -11,7 +11,7 @@ const playBtn = document.getElementById('play');
 const nextBtn = document.getElementById('next');
 
 
-// Music 
+// Music /* Music sourced from https://soundcloud.com Free Downloads */
 const songs = [
     {
         name: 'maddie-1',
